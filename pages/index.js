@@ -1,5 +1,5 @@
 function Home() {
- return <h1>xama</h1>
+ return <h1>oi amor, eu te amo</h1>
 }
 
 export default Home;
